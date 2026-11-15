@@ -6,11 +6,15 @@ A Flutter application designed to help users organise projects, collaborate with
 
 ## Screenshots
 
-> **Add your image:** Save a screenshot of the main dashboard as `assets/screenshots/dashboard.png`, then replace this placeholder with `![Project dashboard](assets/screenshots/dashboard.png)`.
+![Project auth](assets/screenshots/auth.png)
+![Project dashboard](assets/screenshots/dashboard.png)
+![Project progress tracking (Create project)](assets/screenshots/create_project.png)
+![Project progress tracking (Create phase)](assets/screenshots/create_phase.png)
+![Project progress tracking (Create task)](assets/screenshots/create_task.png)
+![User Infromation](assets/screenshots/user_info.png)
 
-> **Add your image:** Save a screenshot of project details or team management as `assets/screenshots/project-team.png`, then replace this placeholder with `![Project and team management](assets/screenshots/project-team.png)`.
 
-> **Add your image:** Save a screenshot of the task or progress view as `assets/screenshots/project-progress.png`, then replace this placeholder with `![Project progress tracking](assets/screenshots/project-progress.png)`.
+<!-- TODO: ![Project and team management](assets/screenshots/project-team.png) add project team management image -->
 
 ## Features
 
