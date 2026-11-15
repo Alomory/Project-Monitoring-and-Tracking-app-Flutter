@@ -1,9 +1,9 @@
 
 
+
 import 'package:flutter/material.dart';
-import 'package:project_monitoring_and_tracking/models/phase.dart';
-import 'package:project_monitoring_and_tracking/models/task.dart';
-import 'package:project_monitoring_and_tracking/models/user.dart';
+
+import 'phase.dart';
 
 class Project extends ChangeNotifier{
   String user;
